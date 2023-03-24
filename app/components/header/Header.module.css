@@ -1,15 +1,17 @@
-.headerContainer {
-    align-items: center;
-    top: 30px;
-    display: flex;
-    flex-direction: row;
-    gap: 59px;
-    justify-content: center;
-    left: 5px;
-    position: relative;
-    width: 100%;
-    z-index: 100;
-  }
-  
-  
-  
+.headerContainer{
+  width: 120px;
+  z-index: 100;
+  margin: 30px;
+}
+
+.headerIcon1{
+  position: relative;
+  top: 13px;
+  left: -10px;
+}
+
+.headerIcon2{
+  position: relative;
+  top: -25px;
+  left: 300px;
+}
